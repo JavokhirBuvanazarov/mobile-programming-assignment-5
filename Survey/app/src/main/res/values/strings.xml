@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Survey</string>
+    <string name="proceed">Start</string>
+    <string name="welcomeTxt">Welcome to survey of food preferences</string>
+
+    <string name="question1">What is your favourite cousine ?</string>
+    <string name="option_1_1">Chinese</string>
+    <string name="option_1_2">French</string>
+    <string name="option_1_3">Italian</string>
+    <string name="option_1_4">Indian</string>
+    <string name="option_1_5">Thai</string>
+    <string name="option_1_6">Turkish</string>
+
+    <string name="question2">How often do you eat out ?</string>
+    <string name="option_2_1">Never</string>
+    <string name="option_2_2">Rarely</string>
+    <string name="option_2_3">Sometimes</string>
+    <string name="option_2_4">Frequently</string>
+
+    <string name="question3">Do you prefer spicy food ?</string>
+    <string name="option_3_1">Yes</string>
+    <string name="option_3_2">No</string>
+
+    <string name="question4">Do you prefer vegetarian food ?</string>
+    <string name="option_4_1">Yes</string>
+    <string name="option_4_2">No</string>
+
+    <string name="question5">Do you sea food ?</string>
+    <string name="option_5_1">Yes</string>
+    <string name="option_5_2">No</string>
+
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="remove_from_cart">Remove from Cart</string>
+    <string name="product_cost">$%1$.2f</string>
+
+</resources>
